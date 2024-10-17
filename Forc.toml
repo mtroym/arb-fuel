@@ -1,0 +1,7 @@
+[project]
+authors = ["tony"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "arbitrage"
+
+[dependencies]
