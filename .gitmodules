@@ -1,3 +1,0 @@
-[submodule "src/mira-v1-periphery"]
-	path = src/mira-v1-periphery
-	url = https://github.com/mira-amm/mira-v1-periphery.git
